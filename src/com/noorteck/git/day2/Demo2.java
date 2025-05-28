@@ -10,4 +10,10 @@ public class Demo2 {
 		System.out.println("a-b");
 	}
 
+	public void sustract(int a, int b) {
+		int a = 5;
+		int b = 6;
+		System.out.println(a-b);
+ 
+
 }
